@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-Certainly! Here's a markdown profile README for [cjrequena](https://github.com/cjrequena), designed to highlight his expertise and contributions:
-
----
-
-```markdown
 # 👋 Hi, I'm Carlos Requena
 
 💻 Software Engineer | 📊 Distributed Systems Enthusiast | ☁️ Cloud Computing Advocate | 🔐 Blockchain Explorer
@@ -54,9 +49,6 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 ---
 
-```
-
----
 
 
 
