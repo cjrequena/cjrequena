@@ -28,9 +28,12 @@ I enjoy writing about topics that pique my interest. Here are some of my blog po
 - [Bitcoin Keys and Addresses](https://cjrequena.github.io/2019-12-03/bitcoin-keys-and-addresses)  
   *An exploration into the cryptographic foundations of Bitcoin, focusing on ECDSA and key generation.*
 
-- [Microservices Architecture](https://cjrequena.github.io/micro-services/2016/09/20/micro-services-architecture-es.html)  
-  *A deep dive into designing and implementing microservices-based architectures.*
+- [GPG (GNU Privacy Guard) Cheat Sheet](https://cjrequena.com/markdowns/docs/cryptography/gpg)
+  *GPG (GNU Privacy Guard) Cheat Sheet*
 
+- [Secure secret sharing using gpg](https://cjrequena.com/markdowns/docs/software-engineering/30-secure-secret-sharing-using-gpg/)
+  *Secure secret sharing using gpg*
+ 
 ---
 
 ## 📈 GitHub Stats
